@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:07111f,100:007BFF&text=ROHAN%20GHOGARE&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE&descAlignY=58&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:007BFF&height=200&section=header&text=ROHAN%20GHOGARE&fontColor=FFFFFF&fontSize=45&fontAlignY=35&desc=AI%20%26%20DATA%20SCIENCE&descAlignY=55&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%7C+Generative+AI;Python+%7C+SQL+%7C+NLP+%7C+RAG;Building+Practical+AI+Applications;Data+Driven+Problem+Solving" />
 
@@ -9,6 +9,7 @@
 <a href="https://github.com/rohanghogare2509-beep">
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/rohan-ghogare/">
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a>
@@ -25,6 +26,7 @@
 class RohanGhogare:
 
     role = "AI & Data Science Graduate"
+
     focus = [
         "Machine Learning",
         "Data Science",
@@ -54,7 +56,7 @@ I enjoy working with data, developing ML models, experimenting with AI applicati
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
 </p>
 
-**Python • SQL • Git • GitHub**
+`Python` `SQL` `Git` `GitHub`
 
 ---
 
@@ -171,46 +173,51 @@ I enjoy working with data, developing ML models, experimenting with AI applicati
 # `> AI ENGINEERING WORKFLOW`
 
 ```text
-                    ┌─────────────────┐
-                    │      DATA       │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │ CLEANING & EDA  │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │    FEATURES     │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │  MACHINE LEARNING│
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │  DEPLOYMENT     │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │    INSIGHTS     │
-                    └─────────────────┘
+                         DATA
+                           │
+                           ▼
+                    DATA CLEANING
+                           │
+                           ▼
+                       EDA
+                           │
+                           ▼
+                  FEATURE ENGINEERING
+                           │
+                           ▼
+                   MACHINE LEARNING
+                           │
+                           ▼
+                      EVALUATION
+                           │
+                           ▼
+                      DEPLOYMENT
+                           │
+                           ▼
+                       INSIGHTS
 ```
 
 ### Generative AI Workflow
 
 ```text
 Documents
-    ↓
+    │
+    ▼
 Chunking
-    ↓
+    │
+    ▼
 Embeddings
-    ↓
+    │
+    ▼
 Vector Search
-    ↓
+    │
+    ▼
 Relevant Context
-    ↓
+    │
+    ▼
 LLM
-    ↓
+    │
+    ▼
 Answer
 ```
 
@@ -261,15 +268,15 @@ Answer
 # `> CURRENTLY BUILDING`
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  🤖 AI / ML Applications                    │
-│  📊 Data Science Projects                   │
-│  🧠 Generative AI & RAG                     │
-│  📚 Strengthening Python & SQL              │
-│  🚀 Building a Production-Ready Portfolio   │
-│                                             │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│                                              │
+│  🤖 AI / ML Applications                     │
+│  📊 Data Science Projects                    │
+│  🧠 Generative AI & RAG                      │
+│  📚 Strengthening Python & SQL               │
+│  🚀 Building a Production-Ready Portfolio    │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
