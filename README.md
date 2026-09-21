@@ -1,334 +1,276 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:007BFF&height=200&section=header&text=ROHAN%20GHOGARE&fontColor=FFFFFF&fontSize=45&fontAlignY=35&desc=AI%20%26%20DATA%20SCIENCE&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050505,100:071B2F&text=ROHAN%20GHOGARE&fontColor=FFFFFF&fontSize=52&fontAlignY=45&desc=AI%20%26%20DATA%20SCIENCE&descSize=18&descAlignY=68&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%7C+Generative+AI;Python+%7C+SQL+%7C+NLP+%7C+RAG;Building+Practical+AI+Applications;Data+Driven+Problem+Solving" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=19&duration=2600&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Data+Science+%7C+Generative+AI;Python+%7C+SQL+%7C+NLP+%7C+RAG;Turning+Data+into+Intelligent+Solutions" />
+
+<br><br>
 
 <a href="https://github.com/rohanghogare2509-beep">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/rohan-ghogare/">
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rohanghogare2509-beep&style=for-the-badge&color=007BFF&label=PROFILE+VIEWS" />
+</div>
+
+<br>
+
+## About Me
+
+I'm **Rohan Ghogare**, an **Artificial Intelligence & Data Science graduate** focused on building practical solutions with **Machine Learning, Data Science and Generative AI**.
+
+I enjoy taking a problem from **raw data → analysis → model → application** and turning it into something useful.
+
+Currently strengthening my skills in **Python, SQL, Machine Learning, NLP, RAG and Data Analytics**.
+
+<br>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages & Data
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+
+<br><br>
+
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+### Machine Learning
+
+`Scikit-learn`   `XGBoost`   `Classification`   `Regression`
+
+`Clustering`   `Recommendation Systems`   `Feature Engineering`
+
+### AI & Generative AI
+
+`Generative AI`   `LLMs`   `NLP`   `RAG`
+
+`Embeddings`   `Vector Search`   `Semantic Search`
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=django,streamlit" />
+
+<br>
+
+`Django`   `Streamlit`   `REST APIs`
 
 </div>
 
----
-
-# `> whoami`
-
-```python
-class RohanGhogare:
-
-    role = "AI & Data Science Graduate"
-
-    focus = [
-        "Machine Learning",
-        "Data Science",
-        "Generative AI",
-        "Natural Language Processing",
-        "Retrieval Augmented Generation"
-    ]
-
-    languages = ["Python", "SQL"]
-
-    mindset = "Build → Learn → Improve → Deploy"
-
-    goal = "Building practical AI and data-driven solutions"
-```
-
-I am an **AI & Data Science graduate** interested in building practical solutions using **Machine Learning, Data Science, Generative AI and NLP**.
-
-I enjoy working with data, developing ML models, experimenting with AI applications and turning ideas into usable projects.
+<br>
 
 ---
 
-# `> AI + DATA SCIENCE STACK`
+## Featured Projects
 
-### 🐍 Languages & Databases
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
-</p>
+### 🏥 MedConnectAI
 
-`Python` `SQL` `Git` `GitHub`
+AI-powered healthcare and telemedicine platform focused on connecting users with healthcare services.
 
----
+**Highlights**
 
-### 📊 Data Science & Analytics
+* Symptom-based disease prediction
+* ML-powered doctor matching
+* Healthcare service integration
+* Django backend
+* REST APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+**Stack**
 
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
+`Python` `Django` `XGBoost` `ML`
 
-`Data Cleaning` `Data Preprocessing` `EDA`
-
-`Feature Engineering` `Statistical Analysis`
-
-`Data Visualization` `KPI Analysis` `Data Storytelling`
-
----
-
-### 🤖 Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
-
-`Scikit-learn` `XGBoost`
-
-`Classification` `Regression` `Clustering`
-
-`Recommendation Systems`
-
-`Feature Selection` `Model Evaluation`
-
----
-
-### 🧠 Generative AI & NLP
-
-`Generative AI` `LLMs` `RAG`
-
-`Natural Language Processing`
-
-`Embeddings` `Vector Search`
-
-`Semantic Search` `Document Question Answering`
-
----
-
-### ⚙️ Development & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,streamlit,git,github" />
-</p>
-
-`Django` `Streamlit` `REST APIs`
-
----
-
-# `> MY PROJECTS`
-
-## 🏥 MedConnectAI
+<br>
 
 <a href="https://github.com/rohanghogare2509-beep/MedConnectAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanghogare2509-beep&repo=MedConnectAI&theme=github_dark&bg_color=050505&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_color=007BFF" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-**AI-powered healthcare and telemedicine platform**
+</td>
 
-* ML-based disease prediction from symptoms
-* Doctor matching system
-* Healthcare service integration
-* Django backend and REST APIs
-* Designed around accessible healthcare solutions
+<td width="50%" valign="top">
 
-**Tech:** `Python` `Django` `XGBoost` `Machine Learning` `REST API`
+### 🎬 MovieRecommendation
 
----
+Content-based movie recommendation system using **TF-IDF** and movie similarity.
 
-## 🎬 MovieRecommendation
+**Highlights**
+
+* TF-IDF based recommendations
+* Movie similarity analysis
+* Interactive Streamlit application
+* Data processing with Pandas
+* Scikit-learn workflow
+
+**Stack**
+
+`Python` `Pandas` `TF-IDF` `Scikit-learn`
+
+<br>
 
 <a href="https://github.com/rohanghogare2509-beep/MovieRecommendation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanghogare2509-beep&repo=MovieRecommendation&theme=github_dark&bg_color=050505&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_color=007BFF" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-**Content-based movie recommendation system**
+</td>
+</tr>
 
-* TF-IDF based recommendation
-* Movie similarity analysis
-* Interactive Streamlit interface
-* Data processing with Pandas
-* Machine learning workflow with Scikit-learn
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** `Python` `Pandas` `Scikit-learn` `TF-IDF` `Streamlit`
+### 📚 RAG Knowledge Base
 
----
+A document-focused **Retrieval-Augmented Generation** project for retrieving relevant information and generating contextual answers.
 
-## 📚 RAG Knowledge Base
+**Highlights**
+
+* Document question answering
+* RAG pipeline
+* Semantic retrieval
+* Embedding-based search
+* LLM-based responses
+
+**Stack**
+
+`Python` `RAG` `NLP` `LLMs`
+
+<br>
 
 <a href="https://github.com/rohanghogare2509-beep/rag-knowledge-base">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanghogare2509-beep&repo=rag-knowledge-base&theme=github_dark&bg_color=050505&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_color=007BFF" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-**Retrieval-Augmented Generation knowledge system**
+</td>
 
-* Document-based question answering
-* Retrieval-Augmented Generation workflow
-* Semantic information retrieval
-* Embedding-based search concepts
-* LLM-powered knowledge interaction
+<td width="50%" valign="top">
 
-**Tech:** `Python` `RAG` `NLP` `LLMs` `Embeddings` `Vector Search`
+### 📈 Data Science Focus
 
----
+I'm building my portfolio around the complete data and AI lifecycle:
 
-# `> AI ENGINEERING WORKFLOW`
+<br>
 
-```text
-                         DATA
-                           │
-                           ▼
-                    DATA CLEANING
-                           │
-                           ▼
-                       EDA
-                           │
-                           ▼
-                  FEATURE ENGINEERING
-                           │
-                           ▼
-                   MACHINE LEARNING
-                           │
-                           ▼
-                      EVALUATION
-                           │
-                           ▼
-                      DEPLOYMENT
-                           │
-                           ▼
-                       INSIGHTS
-```
+**01** → Data Collection
+**02** → Data Cleaning
+**03** → EDA & Visualization
+**04** → Feature Engineering
+**05** → Machine Learning
+**06** → Deployment & Insights
 
-### Generative AI Workflow
+<br>
 
-```text
-Documents
-    │
-    ▼
-Chunking
-    │
-    ▼
-Embeddings
-    │
-    ▼
-Vector Search
-    │
-    ▼
-Relevant Context
-    │
-    ▼
-LLM
-    │
-    ▼
-Answer
-```
+`Data → Intelligence → Impact`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-# `> GITHUB ANALYTICS`
+## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rohanghogare2509-beep&show_icons=true&hide_border=true&bg_color=050505&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohanghogare2509-beep&show_icons=true&hide_border=true&bg_color=050505&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanghogare2509-beep&layout=compact&hide_border=true&bg_color=050505&title_color=00BFFF&text_color=FFFFFF&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanghogare2509-beep&layout=compact&hide_border=true&bg_color=050505&title_color=00BFFF&text_color=FFFFFF&langs_count=6"/>
 
 </div>
 
----
-
-# `> CONTRIBUTION STREAK`
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rohanghogare2509-beep&hide_border=true&background=050505&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=rohanghogare2509-beep&hide_border=true&background=050505&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
----
-
-# `> CONTRIBUTION GRAPH`
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanghogare2509-beep&bg_color=050505&color=00BFFF&line=007BFF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanghogare2509-beep&bg_color=050505&color=00BFFF&line=007BFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
+<br>
+
 ---
 
-# `> GITHUB TROPHIES`
+## What I'm Working On
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohanghogare2509-beep&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+| Focus            | Current Direction                    |
+| ---------------- | ------------------------------------ |
+| 🤖 AI / ML       | Machine Learning applications        |
+| 📊 Data Science  | EDA, analytics & predictive modeling |
+| 🧠 Generative AI | LLMs, RAG & NLP                      |
+| 🗄️ Data         | Python, SQL & data processing        |
+| 🚀 Deployment    | Streamlit, Django & APIs             |
 
 </div>
 
----
-
-# `> CURRENTLY BUILDING`
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  🤖 AI / ML Applications                     │
-│  📊 Data Science Projects                    │
-│  🧠 Generative AI & RAG                      │
-│  📚 Strengthening Python & SQL               │
-│  🚀 Building a Production-Ready Portfolio    │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<br>
 
 ---
 
-# `> 2026 GOALS`
+## Career Focus
 
-* [x] Graduate in Artificial Intelligence & Data Science
-* [x] Build Machine Learning projects
-* [x] Build a recommendation system
-* [x] Build a RAG-based project
-* [x] Build an AI healthcare project
-* [ ] Strengthen Advanced SQL
-* [ ] Build more end-to-end Data Science projects
-* [ ] Deploy more AI applications
-* [ ] Contribute to open-source projects
-* [ ] Start a career in AI / ML / Data Science
+<div align="center">
 
----
+`AI / ML Engineer`    `Data Scientist`    `Generative AI Engineer`
 
-# `> OPEN TO`
+`Data Analyst`    `Machine Learning Intern`    `Data Science Intern`
 
-```text
-AI / ML Engineer
-Data Scientist
-Generative AI Engineer
-Data Analyst
-Machine Learning Intern
-Data Science Intern
-```
+</div>
+
+<br>
 
 ---
 
-# `> CONNECT WITH ME`
+## Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/rohanghogare2509-beep">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
+ 
+
 <a href="https://www.linkedin.com/in/rohan-ghogare/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a>
+
+<br><br>
+
+**Open to opportunities in AI, Machine Learning, Data Science & Generative AI.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rohanghogare2509-beep&style=flat-square&color=00BFFF&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-### `Building with data. Learning with AI. Creating with purpose.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:007BFF,50:07111f,100:050505" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:007BFF,50:071B2F,100:050505"/>
 
 </div>
