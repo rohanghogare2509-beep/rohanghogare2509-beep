@@ -473,32 +473,80 @@ The model is integrated into a Streamlit interface where users can select a movi
 
 <div align="center">
 
-🧠 From Data to Intelligence
-        📦 RAW DATA
-             │
-             ▼
-    🔍 DATA UNDERSTANDING
-             │
-             ▼
-    🧹 PREPROCESSING & CLEANING
-             │
-             ▼
-    📊 PATTERN DISCOVERY
-             │
-             ▼
-    🤖 MACHINE LEARNING
-             │
-             ▼
-    🎯 PREDICTION & INSIGHTS
-             │
-             ▼
-    🚀 INTELLIGENT APPLICATION
+## 🧠 From Data to Intelligence
 
-Data → Knowledge → Patterns → Learning → Intelligence → Impact
+<table>
+<tr>
+<td align="center" width="14%">
+
+### 📦
+
+**RAW DATA**
+
+</td>
+<td align="center" width="14%">
+
+### 🔍
+
+**UNDERSTAND**
+
+</td>
+<td align="center" width="14%">
+
+### 🧹
+
+**PREPROCESS**
+
+</td>
+<td align="center" width="14%">
+
+### 📊
+
+**DISCOVER**
+
+</td>
+<td align="center" width="14%">
+
+### 🤖
+
+**LEARN**
+
+</td>
+<td align="center" width="14%">
+
+### 🎯
+
+**PREDICT**
+
+</td>
+<td align="center" width="14%">
+
+### 🚀
+
+**BUILD**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">Data Collection</td>
+<td align="center">EDA & Analysis</td>
+<td align="center">Cleaning & Features</td>
+<td align="center">Patterns & Insights</td>
+<td align="center">ML Models</td>
+<td align="center">Predictions</td>
+<td align="center">AI Applications</td>
+</tr>
+</table>
+
+<br>
+
+`DATA` ───► `KNOWLEDGE` ───► `PATTERNS` ───► `LEARNING` ───► `INTELLIGENCE` ───► `IMPACT`
 
 </div>
 
-My learning journey has gradually expanded from traditional data science and machine learning into **NLP, Generative AI, RAG, vector databases, LLM integration, and backend AI engineering**.
+My learning journey has gradually expanded from traditional **Data Science and Machine Learning** into **NLP, Generative AI, RAG, Vector Databases, LLM Integration, and Backend AI Engineering**.
+
 
 ---
 
