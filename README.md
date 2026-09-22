@@ -38,7 +38,7 @@ I enjoy understanding how AI systems work end-to-end — from data collection, p
 * 🚀 **Project-Based Learning** — Building end-to-end applications to understand how AI moves from an idea to a working product.
 
 
-# `02` — Technical Arsenal
+#   Technical Arsenal
 
 <table>
 <tr>
