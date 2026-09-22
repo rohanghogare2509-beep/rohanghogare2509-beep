@@ -470,24 +470,32 @@ The model is integrated into a Streamlit interface where users can select a movi
 ---
 
 # `06` — AI / ML Journey
+<div align="center">
 
-### From Data → Intelligence
+🧠 From Data to Intelligence
+        📦 RAW DATA
+             │
+             ▼
+    🔍 DATA UNDERSTANDING
+             │
+             ▼
+    🧹 PREPROCESSING & CLEANING
+             │
+             ▼
+    📊 PATTERN DISCOVERY
+             │
+             ▼
+    🤖 MACHINE LEARNING
+             │
+             ▼
+    🎯 PREDICTION & INSIGHTS
+             │
+             ▼
+    🚀 INTELLIGENT APPLICATION
 
-```text
-Data
- ↓
-Understanding
- ↓
-Preprocessing
- ↓
-Patterns
- ↓
-Machine Learning
- ↓
-Prediction
- ↓
-Intelligent Application
-```
+Data → Knowledge → Patterns → Learning → Intelligence → Impact
+
+</div>
 
 My learning journey has gradually expanded from traditional data science and machine learning into **NLP, Generative AI, RAG, vector databases, LLM integration, and backend AI engineering**.
 
