@@ -470,6 +470,7 @@ The model is integrated into a Streamlit interface where users can select a movi
 ---
 
 # `06` — AI / ML Journey
+
 <div align="center">
 
 🧠 From Data to Intelligence
