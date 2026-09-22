@@ -22,7 +22,7 @@
 
 ---
 
-# `02` — About Me
+#  — About Me
 
 I'm an AI & Data Science graduate passionate about building practical and intelligent applications that solve real-world problems. My work spans Machine Learning, Data Science, NLP, Generative AI, RAG, and Backend AI Engineering, with a focus on turning ideas and data into functional AI-powered solutions.
 
