@@ -237,7 +237,7 @@ I enjoy understanding how AI systems work end-to-end — from data collection, p
 
 ---
 
-# `04` — Featured Projects
+#  Featured Projects
 
 ## 🏥 MedConnect AI
 
@@ -433,7 +433,7 @@ The model is integrated into a Streamlit interface where users can select a movi
 
 ---
 
-# `05` — Data Science Workflow
+#  Data Science Workflow
 
 ## 📊 From Raw Data to Deployment
 
@@ -469,7 +469,7 @@ The model is integrated into a Streamlit interface where users can select a movi
 
 
 
-# `06` — AI / ML Journey
+#  AI / ML Journey
 
 <div align="center">
 
@@ -550,7 +550,7 @@ My learning journey has gradually expanded from traditional **Data Science and M
 
 ---
 
-# `07` — Currently Exploring
+#  Currently Exploring
 
 ### ⚙️ Backend AI Engineering
 
@@ -586,7 +586,7 @@ API Response
 
 ---
 
-# `08` — Certifications
+#  Certifications
 
 🎓 **Python for Data Science** — NPTEL
 
@@ -598,7 +598,7 @@ API Response
 
 ---
 
-# `09` — Education
+#  Education
 
 ### 🎓 Bachelor of Engineering
 
@@ -610,7 +610,7 @@ API Response
 
 ---
 
-# `10` — GitHub Activity
+#  GitHub Activity
 
 <div align="center">
 
@@ -626,7 +626,7 @@ API Response
 
 ---
 
-# `11` — Development Philosophy
+#  Development Philosophy
 
 > **Build → Understand → Experiment → Improve → Deploy**
 
@@ -636,7 +636,7 @@ My approach is to understand the complete flow behind an application — from **
 
 ---
 
-# `12` — Areas of Interest
+#  Areas of Interest
 
 <div align="center">
 
@@ -650,7 +650,7 @@ My approach is to understand the complete flow behind an application — from **
 
 ---
 
-# `13` — Let's Connect
+#  Let's Connect
 
 <div align="center">
 
