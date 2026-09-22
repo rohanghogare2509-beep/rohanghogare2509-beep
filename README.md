@@ -24,17 +24,17 @@
 
 # `01` — About Me
 
-🎓 **AI & Data Science Graduate** with a strong interest in building practical intelligent systems.
+I'm an **AI & Data Science graduate** focused on building practical, intelligent applications with **Machine Learning, Generative AI, NLP, RAG, and Backend Engineering**. I enjoy working across the complete AI development lifecycle — from **data preprocessing and model development to embeddings, vector search, LLM integration, APIs, and deployment**.
 
-🤖 I work across **Machine Learning, Generative AI, NLP, RAG, Data Science, and Backend AI Engineering**.
+### What I Work On
 
-🧠 I enjoy understanding how AI systems work internally — from **data preprocessing and model training to embeddings, vector search, context retrieval, and LLM response generation**.
+* 🤖 **Machine Learning** — Building predictive and recommendation systems using Python and Scikit-learn.
+* 🧠 **NLP & RAG** — Working with text processing, TF-IDF, embeddings, semantic search, vector databases, and document Q&A.
+* ✨ **Generative AI** — Exploring LLMs, prompt engineering, context retrieval, and AI application development.
+* ⚙️ **Backend AI Engineering** — Developing REST APIs and integrating AI models and LLMs into backend applications.
+* 📊 **Data Science & Analytics** — Turning raw data into meaningful patterns, insights, and visualizations.
+* 🚀 **Project-Based Learning** — Building end-to-end applications to understand how AI moves from an idea to a working product.
 
-💻 I build applications using **Python, Django, Flask, Streamlit, REST APIs, SQL, Scikit-learn, and Generative AI technologies**.
-
-🚀 Currently focused on strengthening my skills in **Backend AI Engineering, RAG pipelines, LLM integration, APIs, and production-oriented AI applications**.
-
----
 
 # `02` — Technical Arsenal
 
