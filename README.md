@@ -521,25 +521,11 @@ API Response
 
 ### Areas I'm Exploring
 
-`REST APIs`
+`REST APIs`    `Backend Architecture`    `Vector Databases`    `Semantic Retrieval`
 
-`Backend Architecture`
+`Document Processing`   `Embeddings`   `Context Construction`    `LLM Integration`
 
-`Vector Databases`
-
-`Semantic Retrieval`
-
-`Document Processing`
-
-`Embeddings`
-
-`Context Construction`
-
-`LLM Integration`
-
-`RAG Pipelines`
-
-`AI Application Development`
+`RAG Pipelines`    `AI Application Development`
 
 ---
 
