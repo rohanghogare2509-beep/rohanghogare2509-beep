@@ -433,41 +433,37 @@ The model is integrated into a Streamlit interface where users can select a movi
 
 # `05` — Data Science Workflow
 
-### 📊 From Raw Data to Deployment
+## 📊 From Raw Data to Deployment
 
 <table align="center">
 <tr>
-<td align="center">📦 <b>01 Raw Dataset</b><br><sub>Data Collection · Data Sources</sub></td>
+<td align="center">📦<br><b>RAW DATA</b></td>
+<td align="center">🧹<br><b>CLEAN</b></td>
+<td align="center">⚙️<br><b>PREPROCESS</b></td>
+<td align="center">🔍<br><b>EXPLORE</b></td>
+<td align="center">🧠<br><b>ENGINEER</b></td>
+<td align="center">🤖<br><b>MODEL</b></td>
+<td align="center">🎯<br><b>EVALUATE</b></td>
+<td align="center">🚀<br><b>DEPLOY</b></td>
 </tr>
-<tr><td align="center">⬇️</td></tr>
+
 <tr>
-<td align="center">🧹 <b>02 Data Cleaning</b><br><sub>Missing Values · Duplicates · Outliers</sub></td>
-</tr>
-<tr><td align="center">⬇️</td></tr>
-<tr>
-<td align="center">⚙️ <b>03 Data Preprocessing</b><br><sub>Transformation · Encoding · Scaling</sub></td>
-</tr>
-<tr><td align="center">⬇️</td></tr>
-<tr>
-<td align="center">🔍 <b>04 Exploratory Data Analysis</b><br><sub>Statistics · Visualization · Patterns</sub></td>
-</tr>
-<tr><td align="center">⬇️</td></tr>
-<tr>
-<td align="center">🧠 <b>05 Feature Engineering</b><br><sub>Feature Selection · Feature Creation</sub></td>
-</tr>
-<tr><td align="center">⬇️</td></tr>
-<tr>
-<td align="center">🤖 <b>06 Model Development</b><br><sub>Training · Machine Learning · Optimization</sub></td>
-</tr>
-<tr><td align="center">⬇️</td></tr>
-<tr>
-<td align="center">🎯 <b>07 Model Evaluation</b><br><sub>Metrics · Validation · Performance</sub></td>
-</tr>
-<tr><td align="center">⬇️</td></tr>
-<tr>
-<td align="center">🚀 <b>08 Deployment & API</b><br><sub>Application · REST API · Production</sub></td>
+<td align="center"><sub>Data Collection<br>Data Sources</sub></td>
+<td align="center"><sub>Missing Values<br>Duplicates · Outliers</sub></td>
+<td align="center"><sub>Transformation<br>Encoding · Scaling</sub></td>
+<td align="center"><sub>Statistics<br>Visualization · Patterns</sub></td>
+<td align="center"><sub>Feature Selection<br>Feature Creation</sub></td>
+<td align="center"><sub>Training<br>ML · Optimization</sub></td>
+<td align="center"><sub>Metrics<br>Validation · Performance</sub></td>
+<td align="center"><sub>Application<br>REST API · Production</sub></td>
 </tr>
 </table>
+
+<div align="center">
+
+`DATA` ───► `CLEAN` ───► `PREPARE` ───► `EXPLORE` ───► `ENGINEER` ───► `MODEL` ───► `EVALUATE` ───► `DEPLOY`
+
+</div>
 
 
 
