@@ -218,7 +218,7 @@ I enjoy understanding how AI systems work end-to-end — from data collection, p
 
 ---
 
-# `03` — What I Build
+#  What I Build
 
 <div align="center">
 
