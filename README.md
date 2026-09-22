@@ -433,35 +433,41 @@ The model is integrated into a Streamlit interface where users can select a movi
 
 # `05` — Data Science Workflow
 
-<div align="center">
-
 ### 📊 From Raw Data to Deployment
 
-`📦 01 Raw Dataset`
-*Data Collection · Data Sources*
-⬇️
-`🧹 02 Data Cleaning`
-*Missing Values · Duplicates · Outliers*
-⬇️
-`⚙️ 03 Data Preprocessing`
-*Transformation · Encoding · Scaling*
-⬇️
-`🔍 04 Exploratory Data Analysis`
-*Statistics · Visualization · Patterns*
-⬇️
-`🧠 05 Feature Engineering`
-*Feature Selection · Feature Creation*
-⬇️
-`🤖 06 Model Development`
-*Training · Machine Learning · Optimization*
-⬇️
-`🎯 07 Model Evaluation`
-*Metrics · Validation · Performance*
-⬇️
-`🚀 08 Deployment & API`
-*Application · REST API · Production*
-
-</div>
+<table align="center">
+<tr>
+<td align="center">📦 <b>01 Raw Dataset</b><br><sub>Data Collection · Data Sources</sub></td>
+</tr>
+<tr><td align="center">⬇️</td></tr>
+<tr>
+<td align="center">🧹 <b>02 Data Cleaning</b><br><sub>Missing Values · Duplicates · Outliers</sub></td>
+</tr>
+<tr><td align="center">⬇️</td></tr>
+<tr>
+<td align="center">⚙️ <b>03 Data Preprocessing</b><br><sub>Transformation · Encoding · Scaling</sub></td>
+</tr>
+<tr><td align="center">⬇️</td></tr>
+<tr>
+<td align="center">🔍 <b>04 Exploratory Data Analysis</b><br><sub>Statistics · Visualization · Patterns</sub></td>
+</tr>
+<tr><td align="center">⬇️</td></tr>
+<tr>
+<td align="center">🧠 <b>05 Feature Engineering</b><br><sub>Feature Selection · Feature Creation</sub></td>
+</tr>
+<tr><td align="center">⬇️</td></tr>
+<tr>
+<td align="center">🤖 <b>06 Model Development</b><br><sub>Training · Machine Learning · Optimization</sub></td>
+</tr>
+<tr><td align="center">⬇️</td></tr>
+<tr>
+<td align="center">🎯 <b>07 Model Evaluation</b><br><sub>Metrics · Validation · Performance</sub></td>
+</tr>
+<tr><td align="center">⬇️</td></tr>
+<tr>
+<td align="center">🚀 <b>08 Deployment & API</b><br><sub>Application · REST API · Production</sub></td>
+</tr>
+</table>
 
 
 
