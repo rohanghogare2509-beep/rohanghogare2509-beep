@@ -433,41 +433,144 @@ The model is integrated into a Streamlit interface where users can select a movi
 
 # `05` — Data Science Workflow
 
-```text
-                 ┌─────────────────────┐
-                 │     Raw Dataset     │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   Data Cleaning     │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Data Preprocessing  │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │        EDA          │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Feature Engineering │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Model Development   │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Model Evaluation    │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Deployment / API    │
-                 └─────────────────────┘
-```
+<div align="center">
 
----
+### 📊 From Raw Data to Deployment
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 📦 01
+
+## Raw Dataset
+
+`Data Collection` · `Data Sources`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧹 02
+
+## Data Cleaning
+
+`Missing Values` · `Duplicates` · `Outliers`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ 03
+
+## Data Preprocessing
+
+`Transformation` · `Encoding` · `Scaling`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔍 04
+
+## Exploratory Data Analysis
+
+`Statistics` · `Visualization` · `Patterns`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧠 05
+
+## Feature Engineering
+
+`Feature Selection` · `Feature Creation`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤖 06
+
+## Model Development
+
+`Training` · `Machine Learning` · `Optimization`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎯 07
+
+## Model Evaluation
+
+`Metrics` · `Validation` · `Performance`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🚀 08
+
+## Deployment & API
+
+`Application` · `REST API` · `Production`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**📦 Data → 🧹 Clean → ⚙️ Prepare → 🔍 Explore → 🧠 Engineer → 🤖 Train → 🎯 Evaluate → 🚀 Deploy**
+
+</div>
+
 
 # `06` — AI / ML Journey
 
