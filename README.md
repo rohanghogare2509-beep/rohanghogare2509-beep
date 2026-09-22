@@ -3,7 +3,6 @@
 # Rohan Ghogare
 
 ### AI & Data Science Graduate · Machine Learning · Generative AI
-
 **Building intelligent applications with data, machine learning and LLMs.**
 
 <br>
