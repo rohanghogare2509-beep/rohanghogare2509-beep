@@ -640,15 +640,11 @@ My approach is to understand the complete flow behind an application — from **
 
 <div align="center">
 
-`Artificial Intelligence` · `Machine Learning` · `Generative AI`
+`Artificial Intelligence`        · `Machine Learning` ·   `Generative AI`       `Data Science` ·      `Natural Language Processing`
 
-`Data Science` · `Natural Language Processing`
+`RAG` ·     `LLMs`       · `Vector Databases`       `Backend AI Engineering` ·        `REST APIs`        `Data Analytics` · 
 
-`RAG` · `LLMs` · `Vector Databases`
-
-`Backend AI Engineering` · `REST APIs`
-
-`Data Analytics` · `Computer-Based Problem Solving`
+`Computer-Based Problem Solving`
 
 </div>
 
