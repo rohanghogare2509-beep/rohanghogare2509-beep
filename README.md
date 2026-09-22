@@ -1,179 +1,218 @@
 <div align="center">
 
-# Rohan Ghogare
+# 👋 Hi, I'm Rohan Ghogare
 
-### AI & Data Science Graduate · Machine Learning · Generative AI
-**Building intelligent applications with data, machine learning and LLMs.**
+### AI & Data Science Graduate | Machine Learning | Generative AI | Backend AI Engineering
 
-<br>
+<p>
+  <a href="https://github.com/rohanghogare2509-beep">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-ghogare/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rohanghgogare2509@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/rohanghogare2509-beep">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/rohan-ghogare/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:rohanghogare2509@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Machine+Learning+%7C+Data+Science;Generative+AI+%7C+RAG+%7C+LLMs;Python+%7C+SQL+%7C+Scikit-learn;Building+Data-Driven+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Machine+Learning+%7C+Generative+AI+%7C+RAG;Backend+AI+Engineering+%7C+REST+APIs;Turning+Data+Into+Intelligent+Solutions" />
 
 </div>
 
 ---
 
-## `01` — About Me
+# `01` — About Me
 
-I'm an **Artificial Intelligence & Data Science graduate** with hands-on experience building Machine Learning, Data Science, Generative AI, and data-driven applications.
+🎓 **AI & Data Science Graduate** with a strong interest in building practical intelligent systems.
 
-My interests sit at the intersection of:
+🤖 I work across **Machine Learning, Generative AI, NLP, RAG, Data Science, and Backend AI Engineering**.
 
-```text
-                    DATA
-                      │
-                      ▼
-             ANALYSIS & INSIGHTS
-                      │
-                      ▼
-              MACHINE LEARNING
-                      │
-                      ▼
-             GENERATIVE AI / RAG
-                      │
-                      ▼
-             REAL-WORLD SYSTEMS
-```
+🧠 I enjoy understanding how AI systems work internally — from **data preprocessing and model training to embeddings, vector search, context retrieval, and LLM response generation**.
 
-I enjoy transforming data and complex problems into **practical, intelligent applications**.
+💻 I build applications using **Python, Django, Flask, Streamlit, REST APIs, SQL, Scikit-learn, and Generative AI technologies**.
 
-* 🎓 B.E. in **Artificial Intelligence & Data Science**
-* 📊 Strong foundation in **Data Science & Data Analytics**
-* 🤖 Hands-on experience with **Machine Learning**
-* 🧠 Building applications using **Generative AI & LLMs**
-* 🔎 Interested in **NLP, RAG, Semantic Search & Recommendation Systems**
-* ⚙️ Exploring **AI Backend Engineering & APIs**
-* 💡 Interested in building practical, data-driven solutions
+🚀 Currently focused on strengthening my skills in **Backend AI Engineering, RAG pipelines, LLM integration, APIs, and production-oriented AI applications**.
 
 ---
 
 # `02` — Technical Arsenal
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Programming Languages
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,ruby,mysql" />
 
-<br><br>
+</div>
 
 **Python** · **Java** · **Ruby** · **SQL**
 
 `Object-Oriented Programming` · `Problem Solving` · `Scripting`
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌐 Web & Application Development
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,react,django,flask,streamlit" />
 
-<br><br>
+</div>
 
 **HTML** · **CSS** · **React** · **Django** · **Flask** · **Streamlit**
 
 `REST APIs` · `API Integration` · `Backend Development`
 
-`Web Application Development` · `AI Application Development`
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 Data Science & Analytics
 
 **Pandas** · **NumPy** · **Scikit-learn**
 
-`Data Cleaning` · `Data Preprocessing` · `Exploratory Data Analysis`
+`Data Cleaning` · `Data Preprocessing`
 
-`Feature Engineering` · `Statistical Analysis` · `Data Analysis`
+`Exploratory Data Analysis` · `Feature Engineering`
 
-`Data Transformation` · `Cross-Validation` · `Model Evaluation`
+`Statistical Analysis` · `Data Analysis`
 
----
+`Data Transformation` · `Model Evaluation`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 Machine Learning
 
-`Supervised Learning` · `Regression` · `Classification`
+`Supervised Learning` · `Regression`
 
-`Clustering` · `Recommendation Systems`
+`Classification` · `Clustering`
 
-`Predictive Modeling` · `Feature Engineering`
+`Recommendation Systems` · `Predictive Modeling`
 
-`Model Evaluation` · `Cross-Validation`
+`Feature Engineering` · `Cross-Validation`
 
----
+`Model Evaluation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Natural Language Processing
 
-`NLP` · `Text Preprocessing` · `TF-IDF`
+`NLP` · `Text Preprocessing`
 
-`Text Vectorization` · `Cosine Similarity`
+`TF-IDF` · `Text Vectorization`
 
-`Semantic Similarity` · `Text Representation`
+`Cosine Similarity` · `Semantic Similarity`
 
----
+`Text Representation`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ✨ Generative AI & LLM Engineering
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=huggingface" />
 
-<br><br>
+</div>
 
 **Hugging Face** · **LLMs** · **RAG** · **Generative AI**
 
-`Prompt Engineering` · `Embeddings` · `Semantic Search`
+`Prompt Engineering` · `Embeddings`
 
-`Vector Databases` · `Document Q&A` · `Context Retrieval`
+`Semantic Search` · `Vector Databases`
+
+`Document Q&A` · `Context Retrieval`
 
 `LLM Integration` · `RAG Pipelines`
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 📈 Data Visualization & Business Intelligence
 
-`Power BI` · `Matplotlib` · `Seaborn` · `Plotly`
+**Power BI** · **Matplotlib** · **Seaborn** · **Plotly**
 
 `Data Visualization` · `Dashboard Development`
 
 `Business Insights` · `Data Storytelling`
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🗄️ Databases
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-<br><br>
+</div>
 
 **MySQL** · **PostgreSQL**
 
-`SQL Queries` · `Data Retrieval` · `Database Integration`
+`SQL Queries` · `Data Retrieval`
 
----
+`Database Integration`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🛠️ Developer Tools
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
-<br><br>
+</div>
 
 **Git** · **GitHub** · **VS Code** · **Jupyter Notebook**
 
 `Version Control` · `Repository Management`
 
-`Code Development` · `Experimentation` · `Project Documentation`
+`Code Development` · `Experimentation`
 
-</div>
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 AI Engineering
+
+`REST APIs` · `Backend Development`
+
+`AI Application Development` · `API Integration`
+
+`Vector Search` · `Document Processing`
+
+`Embeddings` · `Context Retrieval`
+
+`LLM Integration` · `RAG Pipelines`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -181,15 +220,16 @@ I enjoy transforming data and complex problems into **practical, intelligent app
 
 <div align="center">
 
-|             Area             | Focus                                                            |
-| :--------------------------: | :--------------------------------------------------------------- |
-|    🧠 **Machine Learning**   | Regression · Classification · Clustering · Model Evaluation      |
-|      📊 **Data Science**     | EDA · Data Cleaning · Feature Engineering · Statistical Analysis |
-|          🔤 **NLP**          | Text Processing · TF-IDF · Vectorization · Similarity            |
-|     🤖 **Generative AI**     | LLMs · Prompt Engineering · Embeddings · RAG                     |
-| 🔎 **Information Retrieval** | Semantic Search · Vector Databases · Document Retrieval          |
-|     📈 **Data Analytics**    | Power BI · Visualization · Business Insights                     |
-|     ⚙️ **AI Engineering**    | APIs · Django · Flask · Streamlit · Backend Integration          |
+|              Area              | What I Work With                                                   |
+| :----------------------------: | :----------------------------------------------------------------- |
+|     🤖 **Machine Learning**    | Classification · Regression · Clustering · Recommendation Systems  |
+|           🧠 **NLP**           | Text Processing · TF-IDF · Similarity · Text Representation        |
+|       ✨ **Generative AI**      | LLMs · Prompt Engineering · Embeddings · RAG                       |
+|       📚 **RAG Systems**       | Document Processing · Chunking · Vector Search · Context Retrieval |
+|      ⚙️ **AI Engineering**     | REST APIs · Backend Logic · LLM Integration · AI Applications      |
+|       📊 **Data Science**      | EDA · Feature Engineering · Statistical Analysis · Visualization   |
+|        📈 **Analytics**        | Power BI · Dashboards · Business Insights                          |
+| 🌐 **Application Development** | Django · Flask · Streamlit · React                                 |
 
 </div>
 
@@ -201,529 +241,400 @@ I enjoy transforming data and complex problems into **practical, intelligent app
 
 ### AI-Powered Healthcare Assistant
 
-**Python · Django · Machine Learning · NLP · REST API**
-
-An AI-powered healthcare platform designed to provide intelligent healthcare assistance through symptom analysis, AI-powered interaction and healthcare service functionality.
-
-### Key Contributions
-
-* Developed a machine learning-based symptom prediction system.
-* Built backend functionality using **Django and Python**.
-* Integrated an AI chatbot for conversational healthcare interaction.
-* Developed REST API functionality for application components.
-* Combined machine learning with a practical healthcare use case.
-
-### Technologies
+**Tech Stack**
 
 `Python` `Django` `Machine Learning` `NLP` `REST API`
 
-**Repository:**
+🔗 **Repository:**
 https://github.com/rohanghogare2509-beep/MedConnectAI
+
+### What It Does
+
+MedConnect AI is an AI-powered healthcare platform designed to provide users with intelligent healthcare guidance and connect them with relevant healthcare services.
+
+### Core Architecture
+
+```text
+User Symptoms
+      ↓
+Data Preprocessing
+      ↓
+Machine Learning Model
+      ↓
+Disease Prediction
+      ↓
+Healthcare Guidance
+      ↓
+Doctor Matching
+      ↓
+Backend APIs
+      ↓
+Healthcare Services
+```
+
+### Key Components
+
+* Symptom-based disease prediction
+* Machine Learning model integration
+* AI chatbot
+* Django backend
+* REST API development
+* Doctor matching
+* Healthcare service integration
+* Telemedicine-oriented application flow
+
+### ML Concept
+
+The system processes user-provided symptoms and converts them into model-compatible features.
+
+The trained classification model then predicts the most relevant disease category based on the learned relationship between symptoms and disease classes.
 
 ---
 
-# 📄 AI-Powered PDF RAG Chatbot
+## 📚 AI-Powered PDF RAG Chatbot
 
-### Retrieval-Augmented Generation for Document Question Answering
+**Tech Stack**
 
-**Python · Generative AI · RAG · LLM · ChromaDB · Embeddings · Semantic Search · Streamlit**
+`Python` `RAG` `LLM` `ChromaDB` `Embeddings` `Semantic Search` `Streamlit`
 
-An AI-powered document question-answering application that allows users to upload PDF documents and ask questions about their content using natural language.
+🔗 **Repository:**
+https://github.com/rohanghogare2509-beep/rag-knowledge-base
 
-The project uses **Retrieval-Augmented Generation (RAG)** to retrieve relevant information from uploaded documents and provide it as context to an LLM before generating an answer.
+### What It Does
 
-### Why RAG?
-
-A language model may not inherently know the contents of a user's private or newly uploaded documents.
-
-Instead of asking the LLM to answer directly, RAG first retrieves relevant information from the document and provides that information as context.
-
-```text
-                    USER QUESTION
-                          │
-                          ▼
-                  Query Processing
-                          │
-                          ▼
-                  Query Embedding
-                          │
-                          ▼
-                  Semantic Search
-                          │
-                          ▼
-                  Vector Database
-                          │
-                          ▼
-                 Relevant Chunks
-                          │
-                          ▼
-                  Context Building
-                          │
-                          ▼
-                         LLM
-                          │
-                          ▼
-                 Contextual Answer
-```
-
-### Technical Pipeline
-
-#### 1. Document Ingestion
-
-The user uploads a PDF document, which becomes the knowledge source for the application.
-
-#### 2. Text Extraction & Chunking
-
-The document content is extracted and divided into smaller chunks.
-
-Chunking allows the retrieval system to work with manageable sections of the document and helps identify information relevant to a particular query.
-
-#### 3. Embeddings
-
-Each document chunk is converted into a numerical vector called an **embedding**.
-
-Embeddings represent the semantic meaning of text in a form that can be compared mathematically.
-
-#### 4. Vector Database
-
-The generated embeddings are stored in **ChromaDB**.
-
-When a user asks a question, the query is also converted into an embedding and compared against the stored document embeddings.
-
-#### 5. Semantic Retrieval
-
-The system retrieves document chunks that are semantically related to the user's question.
-
-Unlike simple keyword matching, semantic retrieval focuses on the **meaning and relationship between the query and document content**.
-
-#### 6. Context Construction
-
-The retrieved chunks are combined into relevant context and passed to the language model together with the user's question.
-
-#### 7. LLM Response Generation
-
-The LLM uses the retrieved context to generate a natural-language answer based on the available document information.
+A document-based question-answering system that allows users to upload PDF documents and ask questions about their content.
 
 ### RAG Architecture
 
 ```text
-                ┌────────────────────┐
-                │   PDF DOCUMENT     │
-                └─────────┬──────────┘
-                          │
-                          ▼
-                ┌────────────────────┐
-                │ TEXT EXTRACTION    │
-                └─────────┬──────────┘
-                          │
-                          ▼
-                ┌────────────────────┐
-                │     CHUNKING       │
-                └─────────┬──────────┘
-                          │
-                          ▼
-                ┌────────────────────┐
-                │    EMBEDDINGS      │
-                └─────────┬──────────┘
-                          │
-                          ▼
-                ┌────────────────────┐
-                │     CHROMADB       │
-                └─────────┬──────────┘
-                          │
-                          │ RETRIEVAL
-                          ▲
-                          │
-                ┌─────────┴──────────┐
-                │   USER QUESTION    │
-                └─────────┬──────────┘
-                          │
-                          ▼
-                ┌────────────────────┐
-                │ QUERY EMBEDDING    │
-                └─────────┬──────────┘
-                          │
-                          ▼
-                ┌────────────────────┐
-                │ SEMANTIC SEARCH    │
-                └─────────┬──────────┘
-                          │
-                          ▼
-                ┌────────────────────┐
-                │ RELEVANT CHUNKS    │
-                └─────────┬──────────┘
-                          │
-                          ▼
-                ┌────────────────────┐
-                │       LLM          │
-                └─────────┬──────────┘
-                          │
-                          ▼
-                ┌────────────────────┐
-                │      ANSWER        │
-                └────────────────────┘
+PDF Upload
+    ↓
+Document Loading
+    ↓
+Text Extraction
+    ↓
+Text Chunking
+    ↓
+Embedding Generation
+    ↓
+Vector Database
+    ↓
+Semantic Search
+    ↓
+Relevant Context
+    ↓
+LLM
+    ↓
+Context-Aware Answer
 ```
-
-### Key Features
-
-* PDF document upload
-* Document text extraction
-* Text chunking
-* Embedding generation
-* ChromaDB vector storage
-* Semantic similarity search
-* Relevant-context retrieval
-* LLM-powered response generation
-* Interactive Streamlit interface
-* Document-based question answering
-
-### What I Learned
-
-This project gave me hands-on experience with the complete workflow of a practical **RAG application**, from document ingestion and chunking to embeddings, vector search, context retrieval and LLM-based response generation.
-
-It also helped me understand how semantic retrieval differs from traditional keyword-based search and how retrieved context can be incorporated into an LLM pipeline to create document-aware AI applications.
-
-**Repository:**
-https://github.com/rohanghogare2509-beep/rag-knowledge-base
-
----
-
-# 🎬 Movie Recommendation System
-
-### Content-Based Movie Recommendation Engine
-
-**Python · Pandas · Scikit-learn · TF-IDF · Cosine Similarity · Streamlit · OMDb API**
-
-A content-based movie recommendation system that recommends movies based on the similarity of their textual metadata.
-
-Unlike collaborative filtering systems that depend on user ratings or behavior, this project uses the **content associated with movies** to identify titles with similar characteristics.
 
 ### How It Works
 
-```text
-                   MOVIE DATASET
-                         │
-                         ▼
-              DATA CLEANING
-                         │
-                         ▼
-              DATA PREPROCESSING
-                         │
-                         ▼
-           COMBINE MOVIE METADATA
-                         │
-                         ▼
-              TF-IDF VECTORIZATION
-                         │
-                         ▼
-             NUMERICAL VECTORS
-                         │
-                         ▼
-              COSINE SIMILARITY
-                         │
-                         ▼
-               SIMILARITY MATRIX
-                         │
-                         ▼
-               TOP RECOMMENDATIONS
-```
+**1. Document Processing**
 
-### Technical Approach
+The uploaded PDF is loaded and its textual content is extracted.
 
-#### 1. Data Preprocessing
+**2. Text Chunking**
 
-Movie metadata is cleaned and prepared before building the recommendation system.
+Large documents are divided into smaller chunks so that individual pieces of information can be efficiently searched.
 
-Relevant textual attributes are combined to create a meaningful representation of each movie.
+**3. Embeddings**
 
-#### 2. Feature Engineering
+Each chunk is converted into a numerical vector representation using an embedding model.
 
-Important movie information is combined into a text-based feature representation.
+**4. Vector Database**
 
-This allows the system to compare movies based on their descriptive characteristics.
+The embeddings are stored inside a vector database such as **ChromaDB**.
 
-#### 3. TF-IDF Vectorization
+**5. Semantic Retrieval**
 
-**TF-IDF (Term Frequency–Inverse Document Frequency)** converts movie-related text into numerical vectors.
+When the user asks a question, the query is converted into an embedding.
 
-It gives greater importance to words that help distinguish one movie from another while reducing the influence of very common terms.
+The system compares the query embedding with stored document embeddings to identify semantically relevant chunks.
 
-#### 4. Cosine Similarity
+**6. Context Construction**
 
-Cosine similarity measures the similarity between the TF-IDF vectors of two movies.
+The retrieved chunks are combined into relevant context.
 
-A higher similarity value indicates that the movies have more similar textual characteristics.
+**7. LLM Response**
 
-#### 5. Recommendation Generation
+The context and user question are provided to the LLM.
 
-When a user selects a movie, the system retrieves its similarity scores and identifies the movies with the highest similarity values.
+The LLM generates an answer based primarily on the retrieved document information.
 
-### Key Features
+### Why RAG?
 
-* Content-based recommendation approach
-* TF-IDF text vectorization
-* Cosine similarity for movie comparison
-* Movie metadata preprocessing
-* Feature engineering for textual data
-* Interactive Streamlit interface
-* OMDb API integration
-* Similar movie recommendation
+Instead of expecting an LLM to already know the uploaded document, RAG dynamically retrieves relevant information from the document and supplies it as context.
 
-### What I Learned
+This makes the application suitable for:
 
-This project helped me understand how **NLP techniques can be applied to recommendation systems**.
+* Document Q&A
+* Knowledge bases
+* Internal company documents
+* Research papers
+* Technical documentation
+* PDF assistants
 
-It provided practical experience in transforming unstructured textual information into numerical representations and using mathematical similarity measures to build a recommendation engine.
+---
 
-**Repository:**
+## 🎬 Movie Recommendation System
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-learn` `TF-IDF` `Cosine Similarity` `Streamlit`
+
+🔗 **Repository:**
 https://github.com/rohanghogare2509-beep/MovieRecommendation
 
-**Live Application:**
+🚀 **Live Application:**
 https://movierecommendation-a.streamlit.app/
+
+### What It Does
+
+A content-based movie recommendation system that recommends movies based on similarities between their metadata.
+
+### Recommendation Pipeline
+
+```text
+Movie Dataset
+      ↓
+Data Cleaning
+      ↓
+Feature Selection
+      ↓
+Text Combination
+      ↓
+TF-IDF Vectorization
+      ↓
+Cosine Similarity
+      ↓
+Similarity Matrix
+      ↓
+Recommended Movies
+```
+
+### How It Works
+
+**TF-IDF**
+
+Movie metadata is converted into numerical vectors using Term Frequency-Inverse Document Frequency.
+
+**Cosine Similarity**
+
+The system calculates similarity between movie vectors.
+
+Movies with higher similarity scores are considered more closely related in terms of their content.
+
+### Application
+
+The model is integrated into a Streamlit interface where users can select a movie and receive similar movie recommendations.
 
 ---
 
 # `05` — Data Science Workflow
 
-<div align="center">
-
 ```text
-                         RAW DATA
-                            │
-                            ▼
-                 ┌────────────────────┐
-                 │ Data Understanding  │
-                 └──────────┬─────────┘
-                            ▼
-                 ┌────────────────────┐
-                 │ Data Cleaning      │
-                 └──────────┬─────────┘
-                            ▼
-                 ┌────────────────────┐
-                 │ EDA & Statistics   │
-                 └──────────┬─────────┘
-                            ▼
-                 ┌────────────────────┐
-                 │ Feature Engineering│
-                 └──────────┬─────────┘
-                            ▼
-                 ┌────────────────────┐
-                 │ Machine Learning   │
-                 └──────────┬─────────┘
-                            ▼
-                 ┌────────────────────┐
-                 │ Model Evaluation   │
-                 └──────────┬─────────┘
-                            ▼
-                 ┌────────────────────┐
-                 │ Visualization     │
-                 └──────────┬─────────┘
-                            ▼
-                         INSIGHTS
+                 ┌─────────────────────┐
+                 │     Raw Dataset     │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │   Data Cleaning     │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ Data Preprocessing  │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │        EDA          │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ Feature Engineering │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ Model Development   │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ Model Evaluation    │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ Deployment / API    │
+                 └─────────────────────┘
 ```
-
-</div>
-
-### Data Analysis
-
-`Pandas` · `NumPy` · `EDA` · `Data Cleaning` · `Data Preprocessing`
-
-### Statistical & Feature Work
-
-`Statistical Analysis` · `Feature Engineering` · `Cross-Validation`
-
-### Machine Learning
-
-`Regression` · `Classification` · `Clustering` · `Recommendation Systems`
-
-### Visualization
-
-`Power BI` · `Matplotlib` · `Seaborn` · `Plotly`
 
 ---
 
 # `06` — AI / ML Journey
 
-<div align="center">
+### From Data → Intelligence
 
 ```text
-                     ARTIFICIAL INTELLIGENCE
-                              │
-              ┌───────────────┴───────────────┐
-              │                               │
-        DATA SCIENCE                    GENERATIVE AI
-              │                               │
-       ┌──────┼──────┐                 ┌──────┼──────┐
-       │      │      │                 │      │      │
-      EDA     ML     BI               LLM    RAG    NLP
-       │      │      │                 │      │      │
-       └──────┼──────┘                 └──────┼──────┘
-              │                               │
-              └───────────────┬───────────────┘
-                              │
-                              ▼
-                     AI APPLICATIONS
-                              │
-                              ▼
-                     AI ENGINEERING
+Data
+ ↓
+Understanding
+ ↓
+Preprocessing
+ ↓
+Patterns
+ ↓
+Machine Learning
+ ↓
+Prediction
+ ↓
+Intelligent Application
 ```
 
-</div>
+My learning journey has gradually expanded from traditional data science and machine learning into **NLP, Generative AI, RAG, vector databases, LLM integration, and backend AI engineering**.
 
 ---
 
 # `07` — Currently Exploring
 
-I'm expanding from individual ML projects toward **end-to-end AI application development**.
+### ⚙️ Backend AI Engineering
+
+Currently strengthening my understanding of how AI systems are integrated into real backend applications.
 
 ```text
-                       API
-                        │
-                        ▼
-                     BACKEND
-                        │
-                        ▼
-              DATABASE / DOCUMENTS
-                        │
-                        ▼
-                VECTOR DATABASE
-                        │
-                        ▼
-              CONTEXT CONSTRUCTION
-                        │
-                        ▼
-                       LLM
-                        │
-                        ▼
-                    RESPONSE
+Client Request
+      ↓
+REST API Endpoint
+      ↓
+Backend Logic
+      ↓
+Document / Database Retrieval
+      ↓
+Vector Search
+      ↓
+Relevant Context
+      ↓
+LLM
+      ↓
+Generated Response
+      ↓
+API Response
 ```
 
-### Areas I'm Strengthening
+### Areas I'm Exploring
 
-* REST APIs
-* FastAPI
-* Django
-* Backend architecture
-* Vector databases
-* RAG pipelines
-* LLM integration
-* API integration
-* AI application deployment
-* Production-oriented AI systems
+`REST APIs`
+
+`Backend Architecture`
+
+`Vector Databases`
+
+`Semantic Retrieval`
+
+`Document Processing`
+
+`Embeddings`
+
+`Context Construction`
+
+`LLM Integration`
+
+`RAG Pipelines`
+
+`AI Application Development`
 
 ---
 
 # `08` — Certifications
 
-| Certification                             | Platform        |
-| ----------------------------------------- | --------------- |
-| 🐍 **Python for Data Science**            | NPTEL           |
-| 🤖 **Career Essentials in Generative AI** | LinkedIn        |
-| 📊 **Data Analyst Internship**            | British Airways |
-| 💻 **Python Full Stack Developer**        | IDUSKILL        |
+🎓 **Python for Data Science** — NPTEL
+
+🤖 **Career Essentials in Generative AI** — LinkedIn
+
+✈️ **Data Analyst Internship** — British Airways
+
+💻 **Python Full Stack Developer** — IDUSKILL
 
 ---
 
 # `09` — Education
 
-### PR Pote College of Engineering and Management
+### 🎓 Bachelor of Engineering
 
-**Bachelor of Engineering — Artificial Intelligence & Data Science**
+**Artificial Intelligence & Data Science**
+
+**PR Pote College of Engineering and Management**
 
 **CGPA: 9.1 / 10**
 
 ---
 
-# `10` — GitHub Statistics
+# `10` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohanghogare2509-beep&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohanghogare2509-beep&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanghogare2509-beep&layout=compact&hide_border=true&langs_count=8" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=rohanghogare2509-beep&hide_border=true" />
-
-</div>
-
----
-
-# `11` — Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanghogare2509-beep&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# `12` — Development Philosophy
-
-I believe building AI applications is not only about choosing a model.
-
-It is about understanding the **data, the problem, the user, and the complete system**.
-
-```text
-             Understand the Problem
-                       ↓
-                 Explore the Data
-                       ↓
-                  Build Solution
-                       ↓
-                 Evaluate Results
-                       ↓
-                Integrate the System
-                       ↓
-                    Make it Useful
-```
-
----
-
-# `13` — Areas of Interest
-
-<div align="center">
-
-**Artificial Intelligence** · **Machine Learning** · **Data Science**
-
-**Generative AI** · **Natural Language Processing**
-
-**Retrieval-Augmented Generation** · **Data Analytics**
-
-**Recommendation Systems** · **AI Engineering**
-
-</div>
-
----
-
-# `14` — Let's Connect
-
-<div align="center">
-
-### Open to opportunities in
-
-**AI/ML · Data Science · Generative AI · Data Analytics · AI Engineering**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanghogare2509-beep&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
+
+<img src="https://streak-stats.demolab.com?user=rohanghogare2509-beep&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# `11` — Development Philosophy
+
+> **Build → Understand → Experiment → Improve → Deploy**
+
+I believe in learning technology by building practical systems rather than only studying theory.
+
+My approach is to understand the complete flow behind an application — from **data and algorithms to APIs, retrieval systems, models, and user-facing applications**.
+
+---
+
+# `12` — Areas of Interest
+
+<div align="center">
+
+`Artificial Intelligence` · `Machine Learning` · `Generative AI`
+
+`Data Science` · `Natural Language Processing`
+
+`RAG` · `LLMs` · `Vector Databases`
+
+`Backend AI Engineering` · `REST APIs`
+
+`Data Analytics` · `Computer-Based Problem Solving`
+
+</div>
+
+---
+
+# `13` — Let's Connect
+
+<div align="center">
+
+### 💬 Open to opportunities in
+
+**AI/ML · Data Science · Generative AI · Backend AI Engineering · Data Analytics**
+
+<br>
+
+<a href="https://github.com/rohanghogare2509-beep">
+<img src="https://img.shields.io/badge/GitHub-Rohan%20Ghogare-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <a href="https://www.linkedin.com/in/rohan-ghogare/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Rohan%20Ghogare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:rohanghogare2509@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:rohanghgogare2509@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-**Thanks for visiting my profile.**
-
-⭐ Explore my repositories and follow my journey in AI & Data Science.
-
-<br>
-
-### *Build · Learn · Analyze · Improve*
+**Thanks for visiting my profile! 🚀**
 
 </div>
